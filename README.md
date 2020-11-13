@@ -1,6 +1,6 @@
 ### Hi there 👋😺
 
-I study System analysis and Operations research in Aalto University. Computer science is my secret passion.
+I study System analysis and Operations research in Aalto University and do programming projects on my spare time.
 
 #### In my spare time I
 - do stuff in the [Guild of Physics](https://www.fyysikkokilta.fi/)
